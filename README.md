@@ -1,6 +1,6 @@
 # login-page-instagram
 
-<div align="center">![instagram-logo2](https://user-images.githubusercontent.com/86324962/177644015-0e7b1393-f7dc-4482-b5f7-96a06fc836ce.png)
+<div align="center">https://user-images.githubusercontent.com/86324962/177644015-0e7b1393-f7dc-4482-b5f7-96a06fc836ce.png
 Página inicial do instagram - Impulso Javascript Evolution #dio
 </div>
 
